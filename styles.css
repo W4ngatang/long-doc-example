@@ -1,5 +1,4 @@
-html, body {
-    height: 10%;
+#header, html, body{
     display:flex;
     padding: 2px;
     box-sizing: border-box;
