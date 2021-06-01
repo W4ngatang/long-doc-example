@@ -10,13 +10,10 @@
 
 
 #content, html, body {
-    float: left;
     height: 99.5%;
-    overflow: scroll;
 }
 #leftleft {
     float: left;
-    height: 100%;
     overflow: scroll;
 }
 #left {
